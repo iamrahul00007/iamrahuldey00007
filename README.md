@@ -1,6 +1,6 @@
 # Hey There 👋
 # 💫 About Me:
-I am Rahul Dey, Aspiring to be a Machine Learning Engineer.<br>I am student of Computer Science Engineering and also connected with IIT Madras through their BS in data science program. <br>I learnt python, SQL, Scikit learn, NumPy, pandas, pytroch, supervised learning, unsupervised learning and many other things which are important to learn for workflow of the system or model.<br>I am egar to know about the workflow the the chatbot, AI related  system and models.<br>I am very passionate about my domain and very open to learn new things with new approachs.
+I am Rahul Dey, Aspiring to be a Machine Learning Engineer, student of Computer Science Engineering and also connected with IIT Madras through their BS in data science program. <br>I learnt python, SQL, Scikit learn, NumPy, pandas, pytroch, supervised learning, unsupervised learning and many other things which are important to learn for workflow of the system or model.<br><br>I am egar to know about the workflow the the chatbot, AI related  system and models. I am very passionate about my domain and very open to learn new things with new approachs.
 
 
 ## 🌐 Socials:
